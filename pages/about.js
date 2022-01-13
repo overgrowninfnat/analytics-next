@@ -4,7 +4,7 @@ export default function AboutPage() {
     return(
         <div>
             <Head>
-                <title>About Page</title>
+                <title>About page</title>
             </Head>
             <h1>About page</h1>
         </div>
