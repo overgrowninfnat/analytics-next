@@ -1,9 +1,10 @@
 import Head from 'next/head'
-export default function About() {
+
+export default function AboutPage() {
     return(
         <div>
             <Head>
-                <title>About page</title>
+                <title>About Page</title>
             </Head>
             <h1>About page</h1>
         </div>
